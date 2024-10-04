@@ -1,0 +1,4 @@
+! Blank file in which we can put "overrides" for parameters
+SPLIT = False
+USE_RK2 = True
+#override DT = 60
